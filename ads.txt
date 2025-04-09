@@ -13,3 +13,9 @@
 (^|\.)disqus\.com$
 (^|\.)kayzen\.io$
 (^|\.)pubfuture-ad\.com$
+(^|\.)pubtrky\.com$
+(^|\.)youradexchange\.com$
+(^|\.)acscdn\.com$
+(^|\.)bb2r\.com$
+(^|\.)cdn77\.org$
+(^|\.)afcdn\.net$
