@@ -91,3 +91,14 @@ my.rtmark.net
 captorbaryton.com
 glookockish.com
 madurird.com
+n.sni.global.fastly.net
+dualstack.guardian.map.fastly.net
+www.the-independent.com
+the-independent.com
+e9631.j.akamaiedge.net
+www.washingtonpost.com
+resources.infolinks.com
+platform.pubadx.one
+koaptouw.com
+ff.exinesriles.com
+muscom.disqus.com
