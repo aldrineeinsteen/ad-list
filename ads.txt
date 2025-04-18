@@ -114,3 +114,5 @@ cdn.onesignal.com
 up.byardoccurs.com
 iq.thyinegutnic.com
 www.googletagmanager.com
+stats.g.doubleclick.net
+region1.analytics.google.com
