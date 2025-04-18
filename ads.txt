@@ -102,3 +102,15 @@ platform.pubadx.one
 koaptouw.com
 ff.exinesriles.com
 muscom.disqus.com
+f.ssl.fastly.net
+d231vab146qzfb.cloudfront.net
+c.disquscdn.com
+disqus.com
+prod.disqus.map.fastlylb.net
+playhop.com
+nawazbeginning.disqus.com
+japeryoutrake.shop
+cdn.onesignal.com
+up.byardoccurs.com
+iq.thyinegutnic.com
+www.googletagmanager.com
